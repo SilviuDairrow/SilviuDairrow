@@ -26,4 +26,8 @@ My name is ![Custom Badge](https://img.shields.io/badge/Silviu-23da94) and I am 
   <a href="https://www.linkedin.com/in/silviu-secan-239a49203/">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
+  
+  <a href="https://ro.wikipedia.org/wiki/Utilizator:Dairrow">
+    <img alt="Wikipedia" src="https://img.shields.io/badge/Wikipedia-222222?logo=wikipedia&logoColor=white)"/>
+  </a>
 </p>
