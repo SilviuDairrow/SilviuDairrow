@@ -1,8 +1,8 @@
 ### Hi there! Welcome to my GitHub profile! 🤯
 
-My name is ![Custom Badge](https://img.shields.io/badge/Silviu-23da94) and I am an all-around programmer, pursuing my last year as a Computer Engineer.🖥️🐒
+My name is ![Custom Badge](https://img.shields.io/badge/Silviu-23da94) and I am an all-around programmer, pursuing my last year as a Computer Engineer. 🖥️🐒
 
-### First color that pops up in my head when I am think about life?
+### First color that pops up in my head when I am thinking about life?
 ![Status Badge](https://img.shields.io/badge/%20yeap,%20this%20exact%20color-23da94)
 
 ### What are my favourite programming languages?
