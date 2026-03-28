@@ -5,7 +5,7 @@ My name is ![Custom Badge](https://img.shields.io/badge/Silviu-23da94) and I am 
 ### First color that pops up in my head when I am thinking about life?
 ![Status Badge](https://img.shields.io/badge/%20yeap,%20this%20exact%20color-23da94)
 
-### What are my favourite programming languages?
+### Programming languages I'm familiar with:
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
