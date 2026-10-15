@@ -19,7 +19,7 @@ My name is ![Custom Badge](https://img.shields.io/badge/Silviu-23da94) and I am 
 
 ### GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilviuDairrow&layout=compact&langs_count=8&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilviuDairrow&theme=blue-green&langs_count=8&size_weight=1&count_weight=4&exclude_repo=Licenta_Home_Security)](https://github.com/SilviuDairrow)
 
 #### Find me at:
 <p>
